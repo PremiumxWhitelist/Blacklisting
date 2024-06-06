@@ -1,7 +1,10 @@
 local scriptBlacklist = {
         [3931702163] = true,  -- ROBLOX: Razorbacks1266 | DISCORD: 850875668698366003
+        [2288008353] = true,   -- ROBLOX: AraFor3v3r | DISCORD: 1188996017656446986
+        [3352870732] = true,   -- ROBLOX: 2ill_M | DISCORD: 1188996017656446986
+        [2245299694] = true,   -- ROBLOX: jendnsxjdhshe | DISCORD: 1188996017656446986
         [0] = true,   -- 
-        [0] = true,   -- 
+        
     }
     
     local function executeScript()
